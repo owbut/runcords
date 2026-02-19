@@ -3,3 +3,16 @@ Runcords
 
 Runcords saves and archives all paddles from each NYC and MTABC depot
 into a compressed zip file corresponding to the pick code.
+
+Limitations
+-----------
+
+Because of the limitations with the source, in order to save other
+scheduled days, you will have to wait for that schedule to be active.
+
+For example, if you run the tool on a day when the school is in session,
+it will only save the OPEN paddles.
+
+WARNING: The passphrase is stored locally within .runcords_config.json.
+If you are going to distribute the program, please redirect them to this
+repository. Thank you :-)
