@@ -14,5 +14,5 @@ For example, if you run the tool on a day when the school is in session,
 it will only save the OPEN paddles.
 
 WARNING: The passphrase is stored locally within .runcords_config.json.
-If you are going to distribute the program, please redirect them to this
+f you are going to distribute the program, please redirect them to this
 repository. Thank you :-)
