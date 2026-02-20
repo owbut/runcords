@@ -154,7 +154,7 @@ def process():
 
 					print(f"Saved {pick}/{depot}/{route}/{run}.html")
 
-				time.sleep(0.5)
+				#time.sleep(0.5)
 
 if __name__ == "__main__":
 	main()	
